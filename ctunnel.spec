@@ -1,11 +1,11 @@
 Summary:	Crypto Tunnel for Proxying and Forwarding TCP/UDP Connections
 Name:		ctunnel
-Version:	0.5
+Version:	0.6
 Release:	1
 License:	GPL
 Group:		Networking/Utilities
 Source0:	http://www.nardcore.org/ctunnel/%{name}-%{version}.tar.gz
-# Source0-md5:	cf849741590cdcea776b5a9d67975b20
+# Source0-md5:	23ba8758fb92dd71915b869ea82aa475
 URL:		http://nardcore.org/ctunnel/
 BuildRequires:	rpmbuild(macros) >= 1.268
 BuildRequires:	openssl-devel
